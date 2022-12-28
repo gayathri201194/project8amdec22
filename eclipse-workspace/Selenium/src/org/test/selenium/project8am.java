@@ -6,6 +6,10 @@ public class project8am {
 		System.out.println("test1");
 		System.out.println("test2");
 		System.out.println("test3");
+		System.out.println("test4");
+		System.out.println("test5");
+
+
 	}
 
 }
